@@ -1,0 +1,7 @@
+.vs/*
+DotnetUtils.Core/obj/*
+DotnetUtils.Core/bin/*
+
+TestResults/*
+DotnetUtils.Core.Tests/obj/*
+DotnetUtils.Core.Tests/bin/*
